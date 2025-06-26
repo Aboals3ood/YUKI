@@ -30,6 +30,8 @@ YUKI is an anime store landing page showcasing trending and top anime, complete 
 ## 📷 Demo / Screenshot
 
 ![A preview of the site](Images/Screenshot.png)
+![A preview of the site](Images/Screenshot-2.png)
+![A preview of the site](Images/Screenshot-3.png)
 
 
 ---
