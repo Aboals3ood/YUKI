@@ -49,8 +49,7 @@ Just a modern browser—no backend needed.
 ### Installation
 1. Clone the repo:
    ```bash
-   git clone https://github.com/aboals3ood/yuki_store.git
-
+   git clone [https://github.com/Aboals3ood/YUKI.git]
 
 yuki-anime-store/
 ├── index.html
